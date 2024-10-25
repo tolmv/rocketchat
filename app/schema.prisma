@@ -1,7 +1,6 @@
 datasource db {
   provider = "postgresql"
-  // url      = "postgres://gpt:1Z4Vgeo64bcmyd316vC@gpt-postgres-prod-postgresql.platform-ops-release:5432/gpt"
-  url      = "postgres://gpt:1Z4Vgeo64bcmyd316vC@postgres:5432/gpt"
+
 }
 
 generator client {
