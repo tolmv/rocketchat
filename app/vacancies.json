@@ -1,0 +1,2880 @@
+[
+    {
+        "id": "95574935",
+        "premium": false,
+        "name": "Продакт Разработчик Python AI (удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-24T23:16:07+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 1700,
+            "to": 2400,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95574935",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/95574935?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95574935",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "address": null,
+        "published_at": "2024-07-18T23:16:07+0300",
+        "created_at": "2024-07-18T23:16:07+0300",
+        "counters": {
+            "responses": 438,
+            "views": 5771,
+            "invitations": 202,
+            "unread_responses": 17,
+            "resumes_in_progress": 202,
+            "invitations_and_responses": 438
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "95574938",
+        "premium": false,
+        "name": "Продакт Разработчик Python AI",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-24T23:16:07+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 1700,
+            "to": 2500,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95574938",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/95574938?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95574938",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "93",
+            "name": "Туркменистан",
+            "url": "https://api.hh.ru/areas/93"
+        },
+        "address": null,
+        "published_at": "2024-07-18T23:16:07+0300",
+        "created_at": "2024-07-18T23:16:07+0300",
+        "counters": {
+            "responses": 361,
+            "views": 4280,
+            "invitations": 153,
+            "unread_responses": 12,
+            "resumes_in_progress": 153,
+            "invitations_and_responses": 361
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "95574940",
+        "premium": false,
+        "name": "Продакт Разработчик Python AI",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-24T23:16:07+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 1800,
+            "to": 2900,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95574940",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/95574940?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95574940",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "146",
+            "name": "Сербия",
+            "url": "https://api.hh.ru/areas/146"
+        },
+        "address": null,
+        "published_at": "2024-07-18T23:16:07+0300",
+        "created_at": "2024-07-18T23:16:07+0300",
+        "counters": {
+            "responses": 199,
+            "views": 4035,
+            "invitations": 66,
+            "unread_responses": 6,
+            "resumes_in_progress": 66,
+            "invitations_and_responses": 199
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "95574939",
+        "premium": false,
+        "name": "Продакт Разработчик Python",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-24T23:16:08+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 1800,
+            "to": 2700,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95574939",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/95574939?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95574939",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2760",
+            "name": "Бишкек",
+            "url": "https://api.hh.ru/areas/2760"
+        },
+        "address": null,
+        "published_at": "2024-07-18T23:16:08+0300",
+        "created_at": "2024-07-18T23:16:08+0300",
+        "counters": {
+            "responses": 347,
+            "views": 4909,
+            "invitations": 120,
+            "unread_responses": 19,
+            "resumes_in_progress": 120,
+            "invitations_and_responses": 347
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "95574936",
+        "premium": false,
+        "name": "Продакт Разработчик Python (удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-24T23:16:08+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 1700,
+            "to": 2400,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95574936",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/95574936?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95574936",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2764",
+            "name": "Акташ (Узбекистан)",
+            "url": "https://api.hh.ru/areas/2764"
+        },
+        "address": null,
+        "published_at": "2024-07-18T23:16:08+0300",
+        "created_at": "2024-07-18T23:16:08+0300",
+        "counters": {
+            "responses": 756,
+            "views": 6479,
+            "invitations": 324,
+            "unread_responses": 24,
+            "resumes_in_progress": 324,
+            "invitations_and_responses": 756
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "95574937",
+        "premium": false,
+        "name": "Продакт Разработчик Python AI",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-24T23:16:08+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 1700,
+            "to": 2400,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95574937",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/95574937?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/95574937",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "86",
+            "name": "Таджикистан",
+            "url": "https://api.hh.ru/areas/86"
+        },
+        "address": null,
+        "published_at": "2024-07-18T23:16:08+0300",
+        "created_at": "2024-07-18T23:16:08+0300",
+        "counters": {
+            "responses": 183,
+            "views": 3768,
+            "invitations": 57,
+            "unread_responses": 8,
+            "resumes_in_progress": 57,
+            "invitations_and_responses": 183
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100751297",
+        "premium": false,
+        "name": "Sales Manager Web3",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-29T20:51:20+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 800,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100751297",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100751297?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100751297",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-17T20:51:20+0300",
+        "created_at": "2024-07-17T20:51:20+0300",
+        "counters": {
+            "responses": 298,
+            "views": 1302,
+            "invitations": 191,
+            "unread_responses": 14,
+            "resumes_in_progress": 191,
+            "invitations_and_responses": 298
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100751296",
+        "premium": false,
+        "name": "Sales Manager Web3",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-29T20:51:20+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 800,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100751296",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100751296?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100751296",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        },
+        "address": null,
+        "published_at": "2024-07-17T20:51:20+0300",
+        "created_at": "2024-07-17T20:51:20+0300",
+        "counters": {
+            "responses": 207,
+            "views": 2060,
+            "invitations": 122,
+            "unread_responses": 10,
+            "resumes_in_progress": 122,
+            "invitations_and_responses": 207
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100751298",
+        "premium": false,
+        "name": "Sales Manager Web3",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-29T20:51:21+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2000,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100751298",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100751298?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100751298",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "address": null,
+        "published_at": "2024-07-17T20:51:21+0300",
+        "created_at": "2024-07-17T20:51:21+0300",
+        "counters": {
+            "responses": 206,
+            "views": 1169,
+            "invitations": 107,
+            "unread_responses": 13,
+            "resumes_in_progress": 107,
+            "invitations_and_responses": 206
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100751295",
+        "premium": false,
+        "name": "Sales Manager Web3",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-29T20:51:21+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 800,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100751295",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100751295?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100751295",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "146",
+            "name": "Сербия",
+            "url": "https://api.hh.ru/areas/146"
+        },
+        "address": null,
+        "published_at": "2024-07-17T20:51:21+0300",
+        "created_at": "2024-07-17T20:51:21+0300",
+        "counters": {
+            "responses": 87,
+            "views": 586,
+            "invitations": 43,
+            "unread_responses": 9,
+            "resumes_in_progress": 43,
+            "invitations_and_responses": 87
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "98552149",
+        "premium": false,
+        "name": "Java + Python Продакт Разработчик AIxWEB3 (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-05T14:49:46+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2000,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98552149",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/98552149?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/98552149",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "address": null,
+        "published_at": "2024-07-18T14:49:46+0300",
+        "created_at": "2024-07-18T14:49:46+0300",
+        "counters": {
+            "responses": 317,
+            "views": 1352,
+            "invitations": 142,
+            "unread_responses": 15,
+            "resumes_in_progress": 142,
+            "invitations_and_responses": 317
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "98552335",
+        "premium": false,
+        "name": "Data Engineer AI (удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-05T14:51:03+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2000,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98552335",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/98552335?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/98552335",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "address": null,
+        "published_at": "2024-07-18T14:51:03+0300",
+        "created_at": "2024-07-18T14:51:03+0300",
+        "counters": {
+            "responses": 265,
+            "views": 2873,
+            "invitations": 141,
+            "unread_responses": 14,
+            "resumes_in_progress": 141,
+            "invitations_and_responses": 265
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "101881824",
+        "premium": false,
+        "name": "Менеджер CRM и Операций Продаж",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-09T12:49:47+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 120000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101881824",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/101881824?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101881824",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-19T12:49:47+0300",
+        "created_at": "2024-07-19T12:49:47+0300",
+        "counters": {
+            "responses": 97,
+            "views": 834,
+            "invitations": 49,
+            "unread_responses": 6,
+            "resumes_in_progress": 49,
+            "invitations_and_responses": 97
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "101797444",
+        "premium": false,
+        "name": "Руководитель Продаж (удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-09T13:24:37+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 200000,
+            "to": 400000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101797444",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/101797444?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101797444",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-19T13:24:37+0300",
+        "created_at": "2024-07-19T13:24:37+0300",
+        "counters": {
+            "responses": 266,
+            "views": 1679,
+            "invitations": 145,
+            "unread_responses": 4,
+            "resumes_in_progress": 145,
+            "invitations_and_responses": 269
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "104116713",
+        "premium": false,
+        "name": "Рекрутер AIxWeb3",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-17T02:11:09+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 600,
+            "to": 1000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104116713",
+        "billing_type": {
+            "id": "standard",
+            "name": "Стандарт"
+        },
+        "url": "https://api.hh.ru/vacancies/104116713?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104116713",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-18T02:11:09+0300",
+        "created_at": "2024-07-18T02:11:09+0300",
+        "counters": {
+            "responses": 27,
+            "views": 173,
+            "invitations": 47,
+            "unread_responses": 8,
+            "resumes_in_progress": 47,
+            "invitations_and_responses": 57
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Valentin",
+            "last_name": "Preobrazhenskiy",
+            "id": "7231336",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100451891",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T08:24:19+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100451891",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100451891?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100451891",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2492",
+            "name": "Баку",
+            "url": "https://api.hh.ru/areas/2492"
+        },
+        "address": null,
+        "published_at": "2024-07-18T08:24:19+0300",
+        "created_at": "2024-07-18T08:24:19+0300",
+        "counters": {
+            "responses": 60,
+            "views": 488,
+            "invitations": 27,
+            "unread_responses": 0,
+            "resumes_in_progress": 27,
+            "invitations_and_responses": 60
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100475194",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T11:20:20+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100475194",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100475194?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100475194",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "146",
+            "name": "Сербия",
+            "url": "https://api.hh.ru/areas/146"
+        },
+        "address": null,
+        "published_at": "2024-07-18T11:20:20+0300",
+        "created_at": "2024-07-18T11:20:20+0300",
+        "counters": {
+            "responses": 46,
+            "views": 381,
+            "invitations": 13,
+            "unread_responses": 2,
+            "resumes_in_progress": 13,
+            "invitations_and_responses": 46
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100511281",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T16:03:30+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100511281",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100511281?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100511281",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "address": null,
+        "published_at": "2024-07-18T16:03:30+0300",
+        "created_at": "2024-07-18T16:03:30+0300",
+        "counters": {
+            "responses": 168,
+            "views": 1301,
+            "invitations": 77,
+            "unread_responses": 6,
+            "resumes_in_progress": 77,
+            "invitations_and_responses": 168
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100511380",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T16:04:41+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100511380",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100511380?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100511380",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2764",
+            "name": "Акташ (Узбекистан)",
+            "url": "https://api.hh.ru/areas/2764"
+        },
+        "address": null,
+        "published_at": "2024-07-18T16:04:41+0300",
+        "created_at": "2024-07-18T16:04:41+0300",
+        "counters": {
+            "responses": 38,
+            "views": 166,
+            "invitations": 14,
+            "unread_responses": 2,
+            "resumes_in_progress": 14,
+            "invitations_and_responses": 38
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100511421",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T16:05:19+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100511421",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100511421?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100511421",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "address": null,
+        "published_at": "2024-07-18T16:05:19+0300",
+        "created_at": "2024-07-18T16:05:19+0300",
+        "counters": {
+            "responses": 27,
+            "views": 431,
+            "invitations": 6,
+            "unread_responses": 0,
+            "resumes_in_progress": 6,
+            "invitations_and_responses": 27
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100511847",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T16:09:02+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100511847",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100511847?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100511847",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "93",
+            "name": "Туркменистан",
+            "url": "https://api.hh.ru/areas/93"
+        },
+        "address": null,
+        "published_at": "2024-07-18T16:09:02+0300",
+        "created_at": "2024-07-18T16:09:02+0300",
+        "counters": {
+            "responses": 86,
+            "views": 376,
+            "invitations": 40,
+            "unread_responses": 9,
+            "resumes_in_progress": 40,
+            "invitations_and_responses": 86
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100511893",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T16:09:34+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100511893",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100511893?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100511893",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "86",
+            "name": "Таджикистан",
+            "url": "https://api.hh.ru/areas/86"
+        },
+        "address": null,
+        "published_at": "2024-07-18T16:09:34+0300",
+        "created_at": "2024-07-18T16:09:34+0300",
+        "counters": {
+            "responses": 37,
+            "views": 202,
+            "invitations": 14,
+            "unread_responses": 4,
+            "resumes_in_progress": 14,
+            "invitations_and_responses": 37
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100512003",
+        "premium": false,
+        "name": "C# Продакт Разработчик Трейдинг",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-27T16:10:34+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100512003",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100512003?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100512003",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "13",
+            "name": "Армения",
+            "url": "https://api.hh.ru/areas/13"
+        },
+        "address": null,
+        "published_at": "2024-07-18T16:10:34+0300",
+        "created_at": "2024-07-18T16:10:34+0300",
+        "counters": {
+            "responses": 60,
+            "views": 367,
+            "invitations": 26,
+            "unread_responses": 1,
+            "resumes_in_progress": 26,
+            "invitations_and_responses": 60
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Аджиен",
+            "last_name": "Лука",
+            "id": "13685947",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "102676410",
+        "premium": false,
+        "name": "Java Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-25T12:40:48+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2000,
+            "to": 3500,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102676410",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/102676410?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102676410",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "address": null,
+        "published_at": "2024-07-19T12:40:48+0300",
+        "created_at": "2024-07-19T12:40:48+0300",
+        "counters": {
+            "responses": 252,
+            "views": 1063,
+            "invitations": 0,
+            "unread_responses": 119,
+            "resumes_in_progress": 0,
+            "invitations_and_responses": 252
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100395422",
+        "premium": false,
+        "name": "Продакт Разработчик Python AI (удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:01:22+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 1900,
+            "to": 2700,
+            "currency": "USD",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100395422",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100395422?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100395422",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:01:22+0300",
+        "created_at": "2024-07-17T17:01:22+0300",
+        "counters": {
+            "responses": 154,
+            "views": 1467,
+            "invitations": 46,
+            "unread_responses": 9,
+            "resumes_in_progress": 46,
+            "invitations_and_responses": 154
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396719",
+        "premium": false,
+        "name": "Продакт Разработчик Growth React/Node.js Full stack (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:16:14+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2500,
+            "to": 3200,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396719",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396719?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396719",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2492",
+            "name": "Баку",
+            "url": "https://api.hh.ru/areas/2492"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:16:14+0300",
+        "created_at": "2024-07-17T17:16:14+0300",
+        "counters": {
+            "responses": 302,
+            "views": 953,
+            "invitations": 106,
+            "unread_responses": 9,
+            "resumes_in_progress": 106,
+            "invitations_and_responses": 302
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396958",
+        "premium": false,
+        "name": "Продакт Разработчик Growth React/Node.js Full stack (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:17:48+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2500,
+            "to": 3200,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396958",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396958?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396958",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2760",
+            "name": "Бишкек",
+            "url": "https://api.hh.ru/areas/2760"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:17:48+0300",
+        "created_at": "2024-07-17T17:17:48+0300",
+        "counters": {
+            "responses": 192,
+            "views": 666,
+            "invitations": 56,
+            "unread_responses": 9,
+            "resumes_in_progress": 56,
+            "invitations_and_responses": 192
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396962",
+        "premium": false,
+        "name": "Продакт Разработчик Growth React/Node.js Full stack (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:17:50+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2500,
+            "to": 3200,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396962",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396962?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396962",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:17:50+0300",
+        "created_at": "2024-07-17T17:17:50+0300",
+        "counters": {
+            "responses": 386,
+            "views": 1026,
+            "invitations": 129,
+            "unread_responses": 14,
+            "resumes_in_progress": 129,
+            "invitations_and_responses": 386
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396964",
+        "premium": false,
+        "name": "Продакт Разработчик Growth React/Node.js Full stack (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:17:52+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2500,
+            "to": 3200,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396964",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396964?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396964",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:17:52+0300",
+        "created_at": "2024-07-17T17:17:52+0300",
+        "counters": {
+            "responses": 590,
+            "views": 2097,
+            "invitations": 255,
+            "unread_responses": 30,
+            "resumes_in_progress": 255,
+            "invitations_and_responses": 590
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396969",
+        "premium": false,
+        "name": "Разработчик CRM AI (Python) (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:17:56+0300",
+        "can_upgrade_billing_type": true,
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396969",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396969?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396969",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:17:56+0300",
+        "created_at": "2024-07-17T17:17:56+0300",
+        "counters": {
+            "responses": 1842,
+            "views": 14502,
+            "invitations": 1052,
+            "unread_responses": 66,
+            "resumes_in_progress": 1052,
+            "invitations_and_responses": 1842
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396972",
+        "premium": false,
+        "name": "Java + Python Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:17:57+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 3000,
+            "to": 4000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396972",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396972?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396972",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:17:57+0300",
+        "created_at": "2024-07-17T17:17:57+0300",
+        "counters": {
+            "responses": 352,
+            "views": 3368,
+            "invitations": 138,
+            "unread_responses": 16,
+            "resumes_in_progress": 138,
+            "invitations_and_responses": 352
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396978",
+        "premium": false,
+        "name": "Java Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:18:00+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2800,
+            "to": 3800,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396978",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396978?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396978",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:18:00+0300",
+        "created_at": "2024-07-17T17:18:00+0300",
+        "counters": {
+            "responses": 480,
+            "views": 2391,
+            "invitations": 184,
+            "unread_responses": 19,
+            "resumes_in_progress": 184,
+            "invitations_and_responses": 480
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100396981",
+        "premium": false,
+        "name": "Java Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:18:03+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2900,
+            "to": 3800,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100396981",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100396981?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100396981",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:18:03+0300",
+        "created_at": "2024-07-17T17:18:03+0300",
+        "counters": {
+            "responses": 332,
+            "views": 1952,
+            "invitations": 128,
+            "unread_responses": 16,
+            "resumes_in_progress": 128,
+            "invitations_and_responses": 332
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100397855",
+        "premium": false,
+        "name": "Data Engineer AI (удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:27:16+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2200,
+            "to": 3400,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100397855",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100397855?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100397855",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "159",
+            "name": "Астана",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:27:16+0300",
+        "created_at": "2024-07-17T17:27:16+0300",
+        "counters": {
+            "responses": 274,
+            "views": 2810,
+            "invitations": 133,
+            "unread_responses": 15,
+            "resumes_in_progress": 133,
+            "invitations_and_responses": 274
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100398183",
+        "premium": false,
+        "name": "Data Engineer AI (удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:30:56+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2200,
+            "to": 3400,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100398183",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100398183?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100398183",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "160",
+            "name": "Алматы",
+            "url": "https://api.hh.ru/areas/160"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:30:56+0300",
+        "created_at": "2024-07-17T17:30:56+0300",
+        "counters": {
+            "responses": 286,
+            "views": 2710,
+            "invitations": 153,
+            "unread_responses": 16,
+            "resumes_in_progress": 153,
+            "invitations_and_responses": 286
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100398187",
+        "premium": false,
+        "name": "Разработчик операций AI, Python/React для меняющих профессию на разработчика",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:30:58+0300",
+        "can_upgrade_billing_type": true,
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100398187",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100398187?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100398187",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:30:58+0300",
+        "created_at": "2024-07-17T17:30:58+0300",
+        "counters": {
+            "responses": 513,
+            "views": 5091,
+            "invitations": 285,
+            "unread_responses": 21,
+            "resumes_in_progress": 285,
+            "invitations_and_responses": 513
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100398362",
+        "premium": false,
+        "name": "IOS Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:31:57+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2000,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100398362",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100398362?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100398362",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:31:57+0300",
+        "created_at": "2024-07-17T17:31:57+0300",
+        "counters": {
+            "responses": 311,
+            "views": 1598,
+            "invitations": 127,
+            "unread_responses": 19,
+            "resumes_in_progress": 127,
+            "invitations_and_responses": 311
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "100398365",
+        "premium": false,
+        "name": "IOS Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-07-26T17:31:59+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2000,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100398365",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/100398365?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100398365",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "address": null,
+        "published_at": "2024-07-17T17:31:59+0300",
+        "created_at": "2024-07-17T17:31:59+0300",
+        "counters": {
+            "responses": 416,
+            "views": 2336,
+            "invitations": 173,
+            "unread_responses": 12,
+            "resumes_in_progress": 173,
+            "invitations_and_responses": 416
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "101175030",
+        "premium": false,
+        "name": "Java + Python Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-02T19:02:20+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2500,
+            "to": 3500,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101175030",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/101175030?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101175030",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2759",
+            "name": "Ташкент",
+            "url": "https://api.hh.ru/areas/2759"
+        },
+        "address": null,
+        "published_at": "2024-07-18T19:02:20+0300",
+        "created_at": "2024-07-18T19:02:20+0300",
+        "counters": {
+            "responses": 423,
+            "views": 1904,
+            "invitations": 151,
+            "unread_responses": 33,
+            "resumes_in_progress": 151,
+            "invitations_and_responses": 423
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "101175029",
+        "premium": false,
+        "name": "Java + Python Продакт Разработчик, Биржа (Удаленно)",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-02T19:02:20+0300",
+        "can_upgrade_billing_type": true,
+        "salary": {
+            "from": 2500,
+            "to": 3500,
+            "currency": "USD",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101175029",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/101175029?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101175029",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "2760",
+            "name": "Бишкек",
+            "url": "https://api.hh.ru/areas/2760"
+        },
+        "address": null,
+        "published_at": "2024-07-18T19:02:20+0300",
+        "created_at": "2024-07-18T19:02:20+0300",
+        "counters": {
+            "responses": 147,
+            "views": 851,
+            "invitations": 45,
+            "unread_responses": 9,
+            "resumes_in_progress": 45,
+            "invitations_and_responses": 147
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "98552745",
+        "premium": false,
+        "name": "Разработчик операций AI, Python/React (Удаленно) для меняющих профессию на разработчика",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-05T14:57:14+0300",
+        "can_upgrade_billing_type": true,
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98552745",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/98552745?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/98552745",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "146",
+            "name": "Сербия",
+            "url": "https://api.hh.ru/areas/146"
+        },
+        "address": null,
+        "published_at": "2024-07-18T14:57:14+0300",
+        "created_at": "2024-07-18T14:57:14+0300",
+        "counters": {
+            "responses": 1623,
+            "views": 11439,
+            "invitations": 910,
+            "unread_responses": 60,
+            "resumes_in_progress": 910,
+            "invitations_and_responses": 1623
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    },
+    {
+        "id": "98552862",
+        "premium": false,
+        "name": "Разработчик операций AI, Python/React (удаленно) для меняющих профессию на разработчика",
+        "has_test": false,
+        "response_letter_required": false,
+        "response_url": null,
+        "sort_point_distance": null,
+        "archived": false,
+        "expires_at": "2024-08-05T14:59:07+0300",
+        "can_upgrade_billing_type": true,
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "employer": {
+            "id": "2870783",
+            "name": "LATOKEN",
+            "url": "https://api.hh.ru/employers/2870783",
+            "alternate_url": "https://hh.ru/employer/2870783",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1057727.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5851549.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5851550.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2870783",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98552862",
+        "billing_type": {
+            "id": "standard_plus",
+            "name": "Стандарт плюс"
+        },
+        "url": "https://api.hh.ru/vacancies/98552862?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/98552862",
+        "relations": [],
+        "department": null,
+        "area": {
+            "id": "1002",
+            "name": "Минск",
+            "url": "https://api.hh.ru/areas/1002"
+        },
+        "address": null,
+        "published_at": "2024-07-18T14:59:07+0300",
+        "created_at": "2024-07-18T14:59:07+0300",
+        "counters": {
+            "responses": 987,
+            "views": 9994,
+            "invitations": 522,
+            "unread_responses": 59,
+            "resumes_in_progress": 522,
+            "invitations_and_responses": 987
+        },
+        "has_updates": true,
+        "has_new_messages": true,
+        "manager": {
+            "first_name": "Менеджер",
+            "last_name": "Нанимающий",
+            "id": "13585480",
+            "middle_name": null
+        }
+    }
+]

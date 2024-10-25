@@ -1,0 +1,25 @@
+datasource db {
+  provider = "postgresql"
+  // url      = "postgres://gpt:1Z4Vgeo64bcmyd316vC@gpt-postgres-prod-postgresql.platform-ops-release:5432/gpt"
+  url      = "postgres://gpt:1Z4Vgeo64bcmyd316vC@postgres:5432/gpt"
+}
+
+generator client {
+  provider = "prisma-client-py"
+}
+
+model prompts {
+  id          Int      @id @default(autoincrement())
+  text        String
+  date        DateTime
+  instance_id Int
+  is_active   Boolean
+}
+
+model instances {
+  id            Int     @id @default(autoincrement())
+  instance_name String
+  model         String
+  temperature   Float
+  json          Boolean
+}
